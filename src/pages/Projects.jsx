@@ -34,7 +34,7 @@ const Projects = () => {
               imgPath={pandascrow}
               isBlog={false}
               title="Pandscrow - A Secure Payment Platform"
-              description="Pandascrow.io is an online platform that provides a decentralized escrow service for cryptocurrency transactions. It enables buyers and sellers to transact with each other safely and securely without the need for intermediaries. Pandascrow.io operates on the blockchain technology, which allows for transparent and secure transactions. It uses smart contracts to ensure that funds are only released to the seller once the buyer has confirmed receipt of the goods or services. The platform charges a small fee for its services, and users can access it from anywhere in the world. Pandascrow.io aims to provide a reliable and secure platform for cryptocurrency transactions, making it a popular choice among cryptocurrency enthusiasts."
+              description="Pandascrow.io is an online platform that provides a decentralized escrow service for cryptocurrency transactions. It enables buyers and sellers to transact with each other safely and securely without the need for intermediaries. Pandascrow.io operates on the blockchain technology, which allows for transparent and secure transactions."
               demoLink="https://pandascrow.io/"
             />
           </Col>
