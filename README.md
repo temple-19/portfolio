@@ -1,7 +1,5 @@
 # JS Portfolio Website
 
-[🔗Live Demo🔗](https://radiant-kringle-1c2833.netlify.app/)
-
 ## Features
 
 **📖 Multi-Page Layout**
